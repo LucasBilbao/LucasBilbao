@@ -2,7 +2,7 @@
 
 - 🧠 I have a master's degree in Information Technologies
 - ⌨️ I am an Web Software Engineer [LinkedIn](https://www.linkedin.com/in/luka-bilbao-munios-09b58a229/)
-- ⚙️ I have always work to towards learning new skills [Web CV](https://lucasbilbao.github.io/CV/home)
+- ⚙️ I always work to towards learning new skills [Web CV](https://lucasbilbao.github.io/CV/home)
 
 
 ## 🌐 Socials:
